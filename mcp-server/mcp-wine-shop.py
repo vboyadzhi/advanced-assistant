@@ -7,7 +7,7 @@ mcp = FastMCP("Wine Shop")
 
 print("Starting Wine Shop MCP server...")
 print(" + Loading wine table")
-pl = pd.read_excel("../data/wine-price-ru.xlsx")
+pl = pd.read_excel("data/wine-price-ru.xlsx")
  
 country_map = {
     "IT": "Италия",
