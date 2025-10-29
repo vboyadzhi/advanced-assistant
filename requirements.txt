@@ -1,2 +1,6 @@
 pandas
 fastmcp
+openai
+pydantic
+dotenv
+tiktoken
